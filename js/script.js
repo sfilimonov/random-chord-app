@@ -1,0 +1,1 @@
+var chordsMajor = document.getElementsByName("li");var chordsMinor = document.getElementsByName("li")var chords5th = document.getElementsByName("li");var chords7th = document.getElementsByName("li")function selectChord {	}
