@@ -1,0 +1,18 @@
+/* Scaffolding */
+
+.span2 {
+	background: #f1f1f1;
+	padding: 10px;
+}
+
+.span10 {
+	margin: 0 auto;
+}
+
+.container {
+	background: #f8f8f8;
+}
+
+.span12 button {
+	margin: 0 auto;
+}
